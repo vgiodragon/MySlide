@@ -1,4 +1,4 @@
-package com.example.giovanny.myslide;
+package com.example.giovanny.myslide.Adaptadores;
 
 import android.content.Context;
 import android.util.AttributeSet;

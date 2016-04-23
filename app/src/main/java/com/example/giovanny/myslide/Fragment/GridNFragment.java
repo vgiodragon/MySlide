@@ -1,4 +1,4 @@
-package com.example.giovanny.myslide;
+package com.example.giovanny.myslide.Fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,6 +7,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
+
+import com.example.giovanny.myslide.Adaptadores.CustomAdapter;
+import com.example.giovanny.myslide.R;
 
 /**
  * Created by giovanny on 22/04/16.

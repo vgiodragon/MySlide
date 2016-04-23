@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+import com.example.giovanny.myslide.Adaptadores.FragmentViewAdapter;
+
 
 /**
  * Created by giovanny on 15/04/16.

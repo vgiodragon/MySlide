@@ -1,8 +1,12 @@
-package com.example.giovanny.myslide;
+package com.example.giovanny.myslide.Adaptadores;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+
+import com.example.giovanny.myslide.Fragment.GridNFragment;
+import com.example.giovanny.myslide.Fragment.ImageNFragment;
+import com.example.giovanny.myslide.Fragment.ListaNFragment;
 
 /**
  * Created by giovanny on 15/04/16.
